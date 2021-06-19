@@ -40,7 +40,7 @@ If you use the UFPR-AMR dataset in your research, please cite our paper:
 }
 ```
 
-You may also be interested in our **new research**, where we considerably improved our ALPR system and provided labels for many images from public datasets:
+You may also be interested in our **new research**, where we proposed an end-to-end approach for AMR in unconstrained scenarios and introduced the [Copel-AMR]](https://github.com/raysonlaroca/copel-amr-dataset) dataset:
 
 * R. Laroca, A. B. Araujo, L. A. Zanlorensi, E. C. de Almeida, D. Menotti, “Towards Image-based Automatic Meter Reading in Unconstrained Scenarios: A Robust and Efficient Approach,” IEEE Access, vol. 9, pp. 67569-67584, 2021. [[IEEE Xplore]](https://doi.org/10.1109/ACCESS.2021.3077415) [[arXiv]](https://arxiv.org/abs/2009.10181)
 
