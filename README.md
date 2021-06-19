@@ -10,7 +10,7 @@ Every image has the following annotations available in a text file: the camera i
 
 
 Here are some examples from the dataset:  
-<img src="./media/samples.png" width="989" height="565" />
+<img src="./media/samples.png" width="989" height="521" />
 
 ## How to obtain the Dataset
 
@@ -24,7 +24,7 @@ You can now check who is downloading our dataset (see [**here**](https://www.inf
 
 If you use the UFPR-AMR dataset in your research, please cite our paper:
 
-* R. Laroca, V. Barroso, M. A. Diniz, G. R. Gonçalves, W. R. Schwartz, D. Menotti, “Convolutional Neural Networks for Automatic Meter Reading,” Journal of Electronic Imaging, vol. 28, no. 1, p. 013023, 2019. [[SPIE Digital Library]](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-28/issue-01/013023/Convolutional-neural-networks-for-automatic-meter-reading/10.1117/1.JEI.28.1.013023.full) [[arXiv]](https://arxiv.org/abs/1902.09600)
+* R. Laroca, V. Barroso, M. A. Diniz, G. R. Gonçalves, W. R. Schwartz, D. Menotti, “*Convolutional Neural Networks for Automatic Meter Reading*,” Journal of Electronic Imaging, vol. 28, no. 1, p. 013023, 2019. [[SPIE Digital Library]](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-28/issue-01/013023/Convolutional-neural-networks-for-automatic-meter-reading/10.1117/1.JEI.28.1.013023.full) [[arXiv]](https://arxiv.org/abs/1902.09600)
 
 ```
 @article{laroca2019convolutional,
@@ -35,14 +35,14 @@ If you use the UFPR-AMR dataset in your research, please cite our paper:
   number = {1},
   pages = {013023},
   year = {2019},
-  ISSN={1017-9909},
+  ISSN = {1017-9909},
   doi = {10.1117/1.JEI.28.1.013023},
 }
 ```
 
-You may also be interested in our **new research**, where we proposed an end-to-end approach for AMR in unconstrained scenarios and introduced the [Copel-AMR]](https://github.com/raysonlaroca/copel-amr-dataset) dataset:
+You may also be interested in our **new research**, where we proposed an end-to-end approach for AMR in unconstrained scenarios and introduced the [Copel-AMR](https://github.com/raysonlaroca/copel-amr-dataset) dataset:
 
-* R. Laroca, A. B. Araujo, L. A. Zanlorensi, E. C. de Almeida, D. Menotti, “Towards Image-based Automatic Meter Reading in Unconstrained Scenarios: A Robust and Efficient Approach,” IEEE Access, vol. 9, pp. 67569-67584, 2021. [[IEEE Xplore]](https://doi.org/10.1109/ACCESS.2021.3077415) [[arXiv]](https://arxiv.org/abs/2009.10181)
+* R. Laroca, A. B. Araujo, L. A. Zanlorensi, E. C. de Almeida, D. Menotti, “*Towards Image-based Automatic Meter Reading in Unconstrained Scenarios: A Robust and Efficient Approach*,” IEEE Access, vol. 9, pp. 67569-67584, 2021. [[IEEE Xplore]](https://doi.org/10.1109/ACCESS.2021.3077415) [[arXiv]](https://arxiv.org/abs/2009.10181)
 
 ## Contact
 

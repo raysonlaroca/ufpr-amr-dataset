@@ -13,7 +13,7 @@ The use of the UFPR-AMR dataset is governed by the following terms and condition
 * For the sake of privacy, all images in this dataset are only allowed for demonstration in academic publications and presentations;
 * All users of the UFPR-AMR dataset agree to indemnify, defend and hold harmless the VRI Lab, the Department of Informatics and the Federal University of Paraná, their administration, officers, employees and agents, individually and collectively, from any and all losses, expenses, and damages. The user agrees to take full responsibility and pay all damages, claims, judgments or expenses resulting from the use of the UFPR-AMR dataset.
 * All publications using the UFPR-AMR dataset should cite the following reference:
-    * R. Laroca, V. Barroso, M. A. Diniz, G. R. Gonçalves, W. R. Schwartz, D. Menotti, “Convolutional Neural Networks for Automatic Meter Reading,” Journal of Electronic Imaging, vol. 28, no. 1, p. 013023, 2019. [[SPIE Digital Library]](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-28/issue-01/013023/Convolutional-neural-networks-for-automatic-meter-reading/10.1117/1.JEI.28.1.013023.full) [[arXiv]](https://arxiv.org/abs/1902.09600)
+    * R. Laroca, V. Barroso, M. A. Diniz, G. R. Gonçalves, W. R. Schwartz, D. Menotti, “*Convolutional Neural Networks for Automatic Meter Reading,” Journal of Electronic Imaging*, vol. 28, no. 1, p. 013023, 2019. [[SPIE Digital Library]](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-28/issue-01/013023/Convolutional-neural-networks-for-automatic-meter-reading/10.1117/1.JEI.28.1.013023.full) [[arXiv]](https://arxiv.org/abs/1902.09600)
 
 ```
 @article{laroca2019convolutional,
@@ -24,7 +24,7 @@ The use of the UFPR-AMR dataset is governed by the following terms and condition
   number = {1},
   pages = {013023},
   year = {2019},
-  ISSN={1017-9909},
+  ISSN = {1017-9909},
   doi = {10.1117/1.JEI.28.1.013023},
 }
 ```  
