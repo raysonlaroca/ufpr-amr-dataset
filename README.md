@@ -10,7 +10,7 @@ Every image has the following annotations available in a text file: the camera i
 
 
 Here are some examples from the dataset:  
-<img src="./media/samples.png" width="989" height="521" />
+<img src="./media/samples.png"/>
 
 ## How to obtain the Dataset
 
