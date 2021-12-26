@@ -18,7 +18,7 @@ The UFPR-AMR dataset is released for academic research only and is free to resea
 
 Please click [**here**](./license-agreement.md) for more info about obtaining the dataset.
 
-You can now check who is downloading our dataset (see [here](https://www.inf.ufpr.br/rblsantos/misc/ufpr-amr-map/)).
+You can now check who is downloading our dataset (see [here](https://raysonlaroca.github.io/misc/ufpr-amr-map/index.html)).
 
 ## Citation
 
