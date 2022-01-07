@@ -12,7 +12,7 @@ Every image has the following annotations available in a text file: the camera i
 Here are some examples from the dataset:  
 <img src="./media/samples.png"/>
 
-## How to obtain the Dataset
+## How to obtain the dataset
 
 The UFPR-AMR dataset is released for academic research only and is free to researchers from educational or research institutes for **non-commercial purposes**.
 
@@ -28,21 +28,25 @@ If you use the UFPR-AMR dataset in your research, please cite our paper:
 
 ```
 @article{laroca2019convolutional,
-  author = {R. {Laroca} and V. {Barroso} and M. A. {Diniz} and G. R. {Gon{\c{c}}alves} and W. R. {Schwartz} and D. {Menotti}},
   title = {Convolutional Neural Networks for Automatic Meter Reading},
+  author = {R. {Laroca} and V. {Barroso} and M. A. {Diniz} and G. R. {Gon{\c{c}}alves} and W. R. {Schwartz} and D. {Menotti}},
+  year = {2019},
   journal = {Journal of Electronic Imaging},
   volume = {28},
   number = {1},
   pages = {013023},
-  year = {2019},
-  ISSN = {1017-9909},
   doi = {10.1117/1.JEI.28.1.013023},
+  issn = {1017-9909}
 }
 ```
 
 You may also be interested in our [**new research**](./pdfs/laroca2021towards.pdf), where we proposed an end-to-end approach for AMR in unconstrained scenarios and introduced the [Copel-AMR](https://github.com/raysonlaroca/copel-amr-dataset) dataset:
 
 * R. Laroca, A. B. Araujo, L. A. Zanlorensi, E. C. de Almeida, D. Menotti, “*Towards Image-based Automatic Meter Reading in Unconstrained Scenarios: A Robust and Efficient Approach*,” IEEE Access, vol. 9, pp. 67569-67584, 2021. [[IEEE Xplore]](https://doi.org/10.1109/ACCESS.2021.3077415) [[arXiv]](https://arxiv.org/abs/2009.10181)
+
+## Related publications
+
+A list of all papers on AMR published by us can be seen [here](https://scholar.google.com/scholar?hl=pt-BR&as_sdt=0%2C5&as_ylo=2019&q=allintitle%3A+meter+reading+author%3ARayson+author%3ALaroca&btnG=).
 
 ## Contact
 
