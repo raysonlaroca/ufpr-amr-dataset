@@ -44,7 +44,7 @@ You may also be interested in our [**new research**](./pdfs/laroca2021towards.pd
 
 * R. Laroca, A. B. Araujo, L. A. Zanlorensi, E. C. de Almeida, D. Menotti, “*Towards Image-based Automatic Meter Reading in Unconstrained Scenarios: A Robust and Efficient Approach*,” IEEE Access, vol. 9, pp. 67569-67584, 2021. [[IEEE Xplore]](https://doi.org/10.1109/ACCESS.2021.3077415) [[arXiv]](https://arxiv.org/abs/2009.10181)
 
-Additionally, consider showing your support by starring this repository.
+Additionally, consider showing your support by starring (:star:) this repository.
 
 ## Related publications
 
