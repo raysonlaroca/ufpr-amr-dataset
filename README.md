@@ -26,7 +26,7 @@ If you use the UFPR-AMR dataset in your research, please cite our paper:
 
 * R. Laroca, V. Barroso, M. A. Diniz, G. R. Gonçalves, W. R. Schwartz, D. Menotti, “*Convolutional Neural Networks for Automatic Meter Reading*,” Journal of Electronic Imaging, vol. 28, no. 1, p. 013023, 2019. [[SPIE Digital Library]](https://doi.org/10.1117/1.JEI.28.1.013023) [[arXiv]](https://arxiv.org/abs/1902.09600)
 
-```
+```bibtex
 @article{laroca2019convolutional,
   title = {Convolutional Neural Networks for Automatic Meter Reading},
   author = {R. {Laroca} and V. {Barroso} and M. A. {Diniz} and G. R. {Gon{\c{c}}alves} and W. R. {Schwartz} and D. {Menotti}},
